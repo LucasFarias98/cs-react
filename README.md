@@ -82,7 +82,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 - Desenvolvedor: Lucas Farias Santana  
 - Email: lucas.farias98@yahoo.com
 - LinkedIn:https://www.linkedin.com/in/developerlucas/
-- GitHub: https://github.com/seu-usuario](https://github.com/LucasFarias98
+- GitHub: https://github.com/LucasFarias98
 
 
 Obrigado por visitar o projeto! 🚀
